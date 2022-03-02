@@ -1,0 +1,5 @@
+Data files must be csv. Data files should be stored in the local directory where the code is running.
+Support for data in different locations or different file types is not known to be supported. 
+
+Data must be in the form of a PhyPhox output file. An example of this data is shown in either 
+ThomasTestRun.csv or TylerTestRun.csv.
